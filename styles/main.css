@@ -26,6 +26,7 @@ header {
   align-items: center;
    margin: auto;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1); 
+  background: url('../images/building-2457378_1280.jpg') no-repeat center center fixed;
 }
 
   
@@ -469,6 +470,7 @@ section:hover {
     grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
   }
 }
+
 
 
 
