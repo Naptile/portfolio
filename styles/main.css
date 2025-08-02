@@ -140,6 +140,7 @@ hr{
 section{
     transition: transform 0.3s ease, box-shadow 0.3s ease;
      backdrop-filter: blur(10px);
+      scroll-margin-top: 80px;
     
 }
 section:hover {
@@ -478,3 +479,4 @@ section:hover {
 
 
   
+
