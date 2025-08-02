@@ -447,9 +447,10 @@ section:hover {
   .nav-container nav a {
     margin: 10px 0;
     padding : 5px;
+    font-size:15px;
   }
   
-  .personal-info h1 {
+  .personal-info h1 
     font-size: 28px;
   }
   
@@ -479,5 +480,6 @@ section:hover {
 
 
   
+
 
 
